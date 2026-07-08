@@ -1,0 +1,5 @@
+imports:
+  - "@auto/issue-triage@latest/agents/issue-triage.yaml"
+variables:
+  repoFullName: zzvxdoteth/ubiquitous-octo-fortnight
+  githubConnection: github-zzvxdoteth
